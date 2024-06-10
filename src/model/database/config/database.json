@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": "",
-    "database": "face",
-    "host": "127.0.0.1",
+    "username": "if0_36708949",
+    "password": "REHw6Zf079K",
+    "database": "if0_36708949_face",
+    "host": "sql212.infinityfree.com",
     "dialect": "mysql"
   },
   "test": {
