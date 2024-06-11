@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "if0_36708949",
-    "password": "REHw6Zf079K",
-    "database": "if0_36708949_face",
-    "host": "sql212.infinityfree.com",
+    "username": "uzufcgz3qyvc4ah5",
+    "password": "fouT4BFZgK7ASFbg4ggz",
+    "database": "brzr9ph5dmphx8cvgxzk",
+    "host": "brzr9ph5dmphx8cvgxzk-mysql.services.clever-cloud.com",
     "dialect": "mysql"
   },
   "test": {
